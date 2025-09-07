@@ -1,4 +1,4 @@
-# Steganography Web Tool
+# CiperVault - Steganography Web Tool
 
 A web application that allows users to hide secret messages within images using steganography techniques. Built with Python Flask for the backend and modern HTML, CSS, and JavaScript for the frontend.
 
@@ -87,4 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [Flask](https://flask.palletsprojects.com/)
 - Uses [Pillow](https://python-pillow.org/) for image processing
 - Modern UI built with pure CSS (no frameworks)
-"# steganography-tool" 
+
